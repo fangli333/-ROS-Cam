@@ -13,6 +13,6 @@ Official implementation of **RGB-Only Supervised Camera Parameter Optimization i
 
 <div style="line-height: 1;">
   <a href="https://arxiv.org/abs/2509.15123" target="_blank" style="margin: 2px;">
-    <img alt="Arxiv" src="https://img.shields.io/badge/Arxiv-ROS-Cam-red?logo=%23B31B1B" style="display: inline-block; vertical-align: middle;"/>
+    <img alt="Arxiv" src="https://img.shields.io/badge/Arxiv-ROS--Cam-red?logo=%23B31B1B" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
